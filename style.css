@@ -1,0 +1,334 @@
+body{
+    font-family: "Raleway",sans-serif;
+}
+*{
+    margin: 0; 
+    font-weight: 200;
+}
+ul{
+    position: absolute; 
+    right: 18px; 
+    position: relative; 
+    top: -55px; 
+    margin: 0; 
+    list-style: none; 
+    display: flex; 
+    font-size: 15px; 
+    padding: 18px;
+}
+a{
+    text-decoration: none; 
+    padding-top: 11px; 
+    padding-bottom: 14px; 
+    padding-left: 13px; 
+    padding-right: 13px; 
+    color: black; 
+    font-size: 18px;
+}
+a:hover{
+    background-color: lightgray;
+}
+#i1{
+    background-color: white; 
+    width: 1516px; 
+    border: none; 
+    height: 45px;
+}
+#i2{
+    background-color: red; 
+    color: white;
+}
+#i2:hover{
+    background-color: lightgray;
+    color: black;
+}
+#i3{
+    margin-left:10px; 
+    position: relative; 
+    top: -60px;
+}
+#i4{
+    position: relative; 
+    top: -616px; 
+    border: none; 
+    width: 720px; 
+    height: 307px; 
+    margin-left: 25px; 
+    background-color: white;
+}
+#i5{
+    border: none; 
+    margin-left: -720px; 
+    height: 65px; 
+    width: 720px; 
+    position: relative; 
+    top: -878px; 
+    background-color: red; 
+    color: white; 
+    font-size: 18px; 
+    text-align: left;
+}
+#i6{
+    position: relative; 
+    top: -860px; 
+    margin-left: 40px; 
+    font-size: 16px;
+}
+#i7{
+    padding-right: 10px;
+}
+#i8{
+    width: 328px; 
+    height: 40px; 
+    border: 1px solid lightgrey;
+}
+#i9{
+    margin-left: 350px; 
+    position: relative; 
+    top: -62px;
+}
+#i10{
+    position: relative; 
+    top: -40px;
+}
+#i11{
+    margin-left: 350px; 
+    position: relative; 
+    top: -102px;
+}
+#i12{
+    width: 190px; 
+    font-size: 15px; 
+    height: 40px; 
+    position: relative; 
+    top: -80px; 
+    background-color:rgb(81, 80, 80); 
+    color: white; border: none;
+}
+#i12:hover{
+    background-color: lightgray;  
+    color: black;
+}
+#i13{
+    position: relative; 
+    top: -124px; 
+    margin-left: 700px;
+}
+#i14{
+    width: 248px; 
+    height: 40px; 
+    border: 1px solid lightgrey;
+}
+#i15{
+    margin-left: 970px; 
+    position: relative; 
+    top: -186px;   
+}
+#i16{
+    margin-left: 1250px; 
+    position: relative; 
+    top: -229px; 
+    width: 222px; 
+    font-size: 15px; 
+    height: 43px; 
+    background-color:black; 
+    color: white; 
+    border: none;
+}
+#i16:hover{
+    background-color: lightgray;  
+    color: black;
+}
+#i18{
+    position: absolute; 
+    top: 880px; 
+    margin-left: 20px; 
+    color: black;
+}
+#i19{
+    position: relative; 
+    top: -210px;
+}
+#i20{
+    margin-left: 12px;
+}
+#i21{
+    width: 456px; 
+    background-color: white; 
+    border: none; 
+    position: relative; 
+    top: -3px;
+}
+#i22{
+    width: 456px; 
+    background-color: white; 
+    border: none; 
+    margin-left: 497px; 
+    position: relative; 
+    top: -264px;
+}
+#i23{
+    width: 456px; 
+    background-color: white; 
+    border: none; 
+    margin-left: 993px; 
+    position: relative; 
+    top: -525px;
+}
+#i24{
+    color: lightgray;
+}
+#i25{
+    width: 455px; 
+    height: 40px; 
+    background-color: black; 
+    border: none; 
+    color: white; 
+    font-size: 16px;
+}
+#i26{
+    margin-left: 20px; 
+    margin-top: 140px;
+}
+#i27{
+    margin-left: 493px;
+}
+#i28{
+    position: relative; 
+    top: -540px; 
+    line-height: 30px;
+}
+#i29{
+    letter-spacing: 2px; 
+    color: black; 
+    margin-left: 15px;
+}
+#i30{
+    color: red
+}
+#i31{
+    display: flex; 
+    justify-content: space-around; 
+    font-size: 16px; 
+    position: relative; 
+    top: -430px;
+}
+#i32{
+    width: 1516px; 
+    background-color: red;
+    color: white; 
+    height: 110px; 
+    position: relative; 
+    top: -400px;
+}
+#i33{
+    position: relative; 
+    top: 45px; 
+    margin-left: 30px;
+}
+#i34{
+    margin-left: 13px; 
+    position: relative; 
+    top: -310px;
+}
+#i35{
+    margin-left: 1135px; 
+    position: relative; 
+    top: -572px;
+}
+#i36{
+    margin-left: 769px; 
+    position: relative; 
+    top: -559px;
+}
+#i37{
+    margin-left: 1135px; 
+    position: relative; 
+    top: -854px;
+}
+#i38{
+    position: relative; 
+    top: -890px; 
+    color: white; 
+    margin-left: 20px;
+}
+#i39{
+    position: relative; 
+    top: -1220px; 
+    color: white; 
+    margin-left: 790px;
+}
+#i40{
+    position: relative; 
+    top: -934px; 
+    color: white; 
+    margin-left: 790px;
+}
+#i41{
+    position: relative; 
+    top: -1264px; 
+    margin-left: 1160px; 
+    color: white;
+}
+#i42{
+    position: relative; 
+    top: -980px; 
+    margin-left: 1160px; 
+    color: white;
+}
+#i43{
+    width: 1516px; 
+    color: white; 
+    background-color: black; 
+    height: 290px; 
+    position: relative; 
+    top: -1250px; 
+    opacity: 0.5;
+}
+#i43:hover{
+    opacity: 1;
+}
+#i44{
+    margin-left: 20px; 
+    position: relative; 
+    top: 40px;
+}
+#i45{
+    width: 1470px; 
+    height: 40px; 
+    font-size: 18px;
+}
+#i46{
+    width: 100px; 
+    height: 35px; 
+    background-color: red; 
+    border: none; 
+    color: white; 
+    font-size: 16px;
+}
+#i47{
+    color: red;
+    padding-right: 15px;
+}
+#i48{
+    width: 222px; 
+    font-size: 15px; 
+    height: 43px; 
+    background-color:black; 
+    color: white; 
+    border: none;
+}
+#i48:hover{
+    background-color: lightgray; 
+    color: black;
+}
+#i49{
+    width: 1450px; 
+    height: 40px; 
+    font-size: 16px;
+}
+#i50{
+    margin-left: 20px; 
+    position: relative; 
+    top: -1200px;
+}
